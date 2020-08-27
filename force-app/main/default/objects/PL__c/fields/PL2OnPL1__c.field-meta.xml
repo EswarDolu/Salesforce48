@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PL2OnPL1__c</fullName>
+    <description>PL2OnPL1</description>
+    <externalId>false</externalId>
+    <inlineHelpText>PL2OnPL1</inlineHelpText>
+    <label>PL2</label>
+    <referenceTo>pl2__c</referenceTo>
+    <relationshipLabel>PLs</relationshipLabel>
+    <relationshipName>PLs</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
