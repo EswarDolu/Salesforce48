@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>47.0</version>
+    <version>48.0</version>
     <types>
-        <members>BusinessClass</members>
+        <members>A0001</members>
         <members>BusinessClassTest</members>
         <name>ApexClass</name>
     </types>
@@ -12,21 +12,12 @@
         <members>PL__c.f222__c</members>
         <members>PL__c.f4444__c</members>
         <members>PL__c.test5555__c</members>
-        <members>pl2__c.GLPicklist11__c</members>
-        <members>pl2__c.testf1__c</members>
+        <members>customObj1__c.customField1_del__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>PL__c</members>
-        <members>pl2__c</members>
+        <members>customObj1__c</members>
         <name>CustomObject</name>
-    </types>
-    <types>
-        <members>GLP1</members>
-        <name>GlobalValueSet</name>
-    </types>
-    <types>
-        <members>pl2__c.All</members>
-        <name>ListView</name>
     </types>
 </Package>
