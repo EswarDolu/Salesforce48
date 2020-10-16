@@ -12,8 +12,6 @@
         <name>CompactLayout</name>
     </types>
     <types>
-        <members>APR_20__c.field3__c</members>
-        <members>APR_20__c.field4_del__c</members>
         <members>PL__c.PL2OnPL1__c</members>
         <members>PL__c.f1__c</members>
         <members>PL__c.f222__c</members>
